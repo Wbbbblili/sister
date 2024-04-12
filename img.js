@@ -12,7 +12,7 @@ $(function () {
                 i++;
             }, 4000);
         } else {
-            $('.begin').html('<a href="finish.html" style="text-decoration: none;color: #fff;background: pink;display: inline-block;padding: 10px;border: 2px solid #fff;">耶！完结撒花</a>');
+            $('.begin').html('<a href="superise.html" style="text-decoration: none;color: #fff;background: pink;display: inline-block;padding: 10px;border: 2px solid #fff;">耶！完结撒花</a>');
             $('.begin').fadeIn();
             return;
         }
