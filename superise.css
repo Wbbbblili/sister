@@ -1,26 +1,8 @@
 * {
-   
     margin: 0;
     padding: 0;
     font-weight: 300;
 }
-
-/*设置背景属性*/
-
-.bj{
-
- position: fixed;  /*将图片固定，不随页面滚动*/
-
- opacity: 1;  /*修改透明度*/
-
- height: 100%;
-
- width: 100%;
-
- z-index: -1;  /*将图片放在最底层*/
-
-}
-
 
 .main{
 	text-align: center;
@@ -56,3 +38,5 @@
 	 0%{ left:0px; }
 	 100%{ left:200px; }
  }
+
+
